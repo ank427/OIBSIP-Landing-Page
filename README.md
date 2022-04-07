@@ -1,1 +1,1 @@
-# OIBSIP-Landing-Page
+# OIBGrip-Landing-Page
